@@ -5,4 +5,4 @@ instruction to run the above project.
   3. go and download stanford core NLp from https://stanfordnlp.github.io/CoreNLP/
   4. now run stanford core nlp  after that run rev_to_rating.py
   5. run recom.py
-you can directly run recom.py to get the result
+  you can directly run recom.py to get the result
