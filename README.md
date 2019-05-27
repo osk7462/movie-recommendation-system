@@ -1,6 +1,6 @@
 instruction to run the above project.
   
-  you can directly run the above project by running recom.py
+  you can run the above project by running recom.py
   
   or
   
